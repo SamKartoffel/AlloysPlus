@@ -1,0 +1,12 @@
+{
+    "variants":{
+        "burning=false,facing=north": { "model": "ap:unlit_alloy_furnace" },
+        "burning=false,facing=east": { "model": "ap:unlit_alloy_furnace", "y": 90 },
+        "burning=false,facing=south": { "model": "ap:unlit_alloy_furnace", "y": 180 },
+        "burning=false,facing=west": { "model": "ap:unlit_alloy_furnace", "y": 270 },
+        "burning=true,facing=north": { "model": "ap:lit_alloy_furnace" },
+        "burning=true,facing=east": { "model": "ap:lit_alloy_furnace", "y": 90 },
+        "burning=true,facing=south": { "model": "ap:lit_alloy_furnace", "y": 180 },
+        "burning=true,facing=west": { "model": "ap:lit_alloy_furnace", "y":270  }
+    }
+}

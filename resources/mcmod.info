@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ap",
+  "name": "Alloys Plus",
+  "description": "Adds several ores that can be smelted to ingots. These can be used for creating alloys.",
+  "version": "4.0 BETA 0.2",
+  "mcversion": "1.12",
+  "url": "https://www.planetminecraft.com/member/sam_kartoffel/",
+  "updateUrl": "",
+  "authorList": ["Isaac aka Sam_Kartoffel"],
+  "credits": "Sam_Kartoffel developer; Razbelle, mod tester",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

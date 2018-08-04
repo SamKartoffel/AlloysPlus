@@ -1,0 +1,149 @@
+*CREATIVE TABS*
+itemGroup.armortab=AlloysPlus Armor
+itemGroup.blocktab=AlloysPlus Blocks
+itemGroup.ingottab=AlloysPlus Ingots
+itemGroup.toolstab=AlloysPlus Tools
+itemGroup.misctab=AlloysPlus Misc
+
+*FOOD*
+
+item.slice_cheese.name=Cheese Slice
+item.slice_cake.name=Cake Slice
+
+*ITEMS*
+item.wire_nitinol.name=Nitinol Wire
+item.fragment_robotic.name=Robotic Piece
+item.robotic_leg.name=Robotic Leg
+item.fragment_cadmium.name=Cadmium Fragment
+item.fragment_obsidian.name=Obsidian Fragment
+item.chunk_cadmium.name=Cadmium Chunk
+item.chunk_carbon.name=Carbon Piece
+
+*INGOTS*
+item.ingot_bismuth.name=Bismuth Ingot
+item.ingot_bronze.name=Bronze Ingot
+item.ingot_cadmium.name=Refined Cadmium
+item.ingot_cakeium.name=Cakeium Ingot
+item.ingot_carbon.name=Carbon Ingot
+item.ingot_copper.name=Copper Ingot
+item.ingot_electrum.name=Electrum Ingot
+item.ingot_heated_iron.name=Tempered Iron Ingot
+item.ingot_lead.name=Lead Piece
+item.ingot_nickel.name=Nickel Ingot
+item.ingot_nitinol.name=Nitinol Ingot
+item.ingot_obsidian.name=Obsidian Ingot
+item.ingot_obsidisteel.name=Obsidisteel Ingot
+item.ingot_silver.name=Silver Ingot
+item.ingot_steel.name=Steel Ingot
+item.ingot_temp_iron.name=Tempered Iron
+item.ingot_tin.name=Tin Ingot
+item.ingot_titanium.name=Titanium Ingot
+item.ingot_woods.name=Woods Metal Ingot
+item.ingot_wootz.name=Wootz Steel Ingot
+item.ingot_zinc.name=Zinc Ingot
+
+
+*BLOCKS OF INGOT*
+tile.block_bismuth.name=Bismuth Block
+tile.block_bronze.name=Bronze Block
+tile.block_cadmium.name=Cadmium Block
+tile.block_carbon.name=Carbon Block
+tile.block_copper.name=Copper Block
+tile.block_electrum.name=Electrum Block
+tile.block_lead.name=Lead Block
+tile.block_nickel.name=Nickel Block
+tile.block_nitinol.name=Nitinol Block
+tile.block_obsidisteel.name=Obsidisteel Block
+tile.block_silver.name=Silver Block
+tile.block_steel.name=Steel Block
+tile.block_tin.name=Tin Block
+tile.block_titanium.name=Titanium Block
+tile.block_woods.name=Woods Metal Block
+tile.block_zinc.name=Zinc Block
+
+
+*ORE BLOCKS*
+tile.ore_bismuth.name=Bismuth Ore
+tile.ore_cadmium.name=Cadmium Ore
+tile.ore_carbon.name=Carbon Ore
+tile.ore_copper.name=Copper Ore
+tile.ore_lead.name=Lead Ore
+tile.ore_nickel.name=Nickel Ore
+tile.ore_nitinol.name=Nitinol Ore
+tile.ore_silver.name=Silver Ore
+tile.ore_tin.name=Tin Ore
+tile.ore_titanium.name=Titanium Ore
+tile.ore_zinc.name=Zinc Ore
+
+
+*MACHINES*
+tile.alloy_furnace.name=Alloy Furnace
+container.alloy_furnace=Alloy Furnace
+
+*TOOLS*
+item.axe_bronze.name=Bronze Axe
+item.hoe_bronze.name=Bronze Hoe
+item.pickaxe_bronze.name=Bronze Pickaxe
+item.shovel_bronze.name=Bronze Shovel
+item.sword_bronze.name=Bronze Sword
+
+item.axe_electrum.name=Electrum Axe
+item.hoe_electrum.name=Electrum Hoe
+item.pickaxe_electrum.name=Electrum Pickaxe
+item.shovel_electrum.name=Electrum Shovel
+item.sword_electrum.name=Electrum Sword
+
+item.axe_obsidisteel.name=Obsidisteel Axe
+item.hoe_obsidisteel.name=Obsidisteel Hoe
+item.pickaxe_obsidisteel.name=Obsidisteel Pickaxe
+item.shovel_obsidisteel.name=Obsidisteel Shovel
+item.sword_obsidisteel.name=Obsidisteel Sword
+
+item.axe_steel.name=Steel Axe
+item.hoe_steel.name=Steel Hoe
+item.pickaxe_steel.name=Steel Pickaxe
+item.shovel_steel.name=Steel Shovel
+item.sword_steel.name=Steel Sword
+
+item.axe_woods.name=Woods Metal Axe
+item.hoe_woods.name=Woods Metal Hoe
+item.pickaxe_woods.name=Woods Metal Pickaxe
+item.shovel_woods.name=Woods Metal Shovel
+item.sword_woods.name=Woods Metal Sword
+
+
+*ARMOR*
+item.helmet_bronze.name=Bronze Helmet
+item.chestplate_bronze.name=Bronze Chestplate
+item.leggings_bronze.name=Bronze Leggings
+item.boots_bronze.name=Bronze Boots
+
+item.helmet_electrum.name=Electrum Helmet
+item.chestplate_electrum.name=Electrum Chestplate
+item.leggings_electrum.name=Electrum Leggings
+item.boots_electrum.name=Electrum Boots
+
+item.helmet_obsidisteel.name=Obsidisteel Helmet
+item.chestplate_obsidisteel.name=Obsidisteel Chestplate
+item.leggings_obsidisteel.name=Obsidisteel Leggings
+item.boots_obsidisteel.name=Obsidisteel Boots
+
+item.helmet_steel.name=Steel Helmet
+item.chestplate_steel.name=Steel Chestplate
+item.leggings_steel.name=Steel Leggings
+item.boots_steel.name=Steel Boots
+
+item.helmet_nightvision.name=Nightvision Goggles
+item.chestplate_cake.name=Cake Chestplate
+item.leggings_robolegs.name=Robotic Legs
+item.boots_springs.name=Springs
+
+item.helmet_woods.name=Woods Metal Helmet
+item.chestplate_woods.name=Woods Metal Chestplate
+item.leggings_woods.name=Woods Metal Leggings
+item.boots_woods.name=Woods Metal Boots
+
+
+
+
+
