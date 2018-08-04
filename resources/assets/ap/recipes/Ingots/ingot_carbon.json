@@ -1,0 +1,14 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        "B" 
+    ],
+    
+    "key":{ 
+        "B":{"item": "ap:block_carbon"}     
+    },
+    "result":{
+        "item": "ap:ingot_carbon",
+        "count": 9
+    }
+}

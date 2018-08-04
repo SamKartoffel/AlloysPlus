@@ -1,0 +1,15 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        "I I",
+        "I I" 
+    ],
+    
+    "key":{ 
+        "I":{"item": "ap:ingot_bronze"}     
+    },
+    "result":{
+        "item": "ap:boots_bronze",
+        "count": 1
+    }
+}

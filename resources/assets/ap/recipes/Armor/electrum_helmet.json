@@ -1,0 +1,15 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        "III",
+        "I I" 
+    ],
+    
+    "key":{ 
+        "I":{"item": "ap:ingot_electrum"}     
+    },
+    "result":{
+        "item": "ap:helmet_electrum",
+        "count": 1
+    }
+}

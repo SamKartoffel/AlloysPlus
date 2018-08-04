@@ -1,0 +1,14 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        "B" 
+    ],
+    
+    "key":{ 
+        "B":{"item": "ap:block_tin"}     
+    },
+    "result":{
+        "item": "ap:ingot_tin",
+        "count": 9
+    }
+}

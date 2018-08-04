@@ -1,0 +1,15 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        "I I",
+        "I I" 
+    ],
+    
+    "key":{ 
+        "I":{"item": "ap:ingot_woods"}     
+    },
+    "result":{
+        "item": "ap:boots_woods",
+        "count": 1
+    }
+}

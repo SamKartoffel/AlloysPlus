@@ -1,0 +1,17 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        "I",
+        "I",
+        "S" 
+    ],
+    
+    "key":{ 
+        "I":{"item": "ap:ingot_steel"},
+	"S":{"item": "minecraft:stick"}     
+    },
+    "result":{
+        "item": "ap:sword_steel",
+        "count": 1
+    }
+}

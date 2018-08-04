@@ -1,0 +1,14 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        "C"
+    ],
+    
+    "key":{ 
+        "C":{"item": "minecraft:cake"}     
+    },
+    "result":{
+        "item": "ap:slice_cake",
+        "count": 4
+    }
+}

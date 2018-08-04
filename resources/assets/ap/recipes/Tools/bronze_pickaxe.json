@@ -1,0 +1,17 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        "III",
+        " S ",
+        " S " 
+    ],
+    
+    "key":{ 
+        "I":{"item": "ap:ingot_bronze"},
+	"S":{"item": "minecraft:stick"}     
+    },
+    "result":{
+        "item": "ap:pickaxe_bronze",
+        "count": 1
+    }
+}

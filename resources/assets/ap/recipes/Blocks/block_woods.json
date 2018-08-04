@@ -1,0 +1,16 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        "III",
+        "III",
+        "III"
+    ],
+    
+    "key":{ 
+        "I":{"item": "ap:ingot_woods"}     
+    },
+    "result":{
+        "item": "ap:block_woods",
+        "count": 1
+    }
+}

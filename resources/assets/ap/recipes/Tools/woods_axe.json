@@ -1,0 +1,17 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        "II",
+        "SI",
+        "S " 
+    ],
+    
+    "key":{ 
+        "I":{"item": "ap:ingot_woods"},
+	"S":{"item": "minecraft:stick"}     
+    },
+    "result":{
+        "item": "ap:axe_woods",
+        "count": 1
+    }
+}

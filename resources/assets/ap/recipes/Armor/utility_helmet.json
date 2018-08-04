@@ -1,0 +1,18 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        " NN",
+        "ZTN",
+	"TZN" 
+    ],
+    
+    "key":{ 
+        "N":{"item": "ap:wire_nitinol"},
+	"Z":{"item": "ap:ingot_zinc"},
+	"T":{"item": "ap:ingot_titanium"}     
+    },
+    "result":{
+        "item": "ap:helmet_nightvision",
+        "count": 1
+    }
+}

@@ -1,0 +1,16 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        "III",
+        "III",
+        "III" 
+    ],
+    
+    "key":{ 
+        "I":{"item": "ap:ingot_carbon"}     
+    },
+    "result":{
+        "item": "ap:block_carbon",
+        "count": 1
+    }
+}

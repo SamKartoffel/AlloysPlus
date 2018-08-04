@@ -1,0 +1,17 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        "RPP",
+	" RP",
+	"  P"
+    ],
+    
+    "key":{ 
+        "P":{"item": "ap:fragment_robotic"},
+	"R":{"item": "minecraft:redstone"}     
+    },
+    "result":{
+        "item": "ap:robotic_leg",
+        "count": 1
+    }
+}

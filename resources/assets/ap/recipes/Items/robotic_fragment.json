@@ -1,0 +1,17 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        "WT",
+	" R"
+    ],
+    
+    "key":{ 
+        "W":{"item": "ap:wire_nitinol"},
+	"T":{"item": "ap:ingot_heated_iron"},
+	"R":{"item": "minecraft:redstone"}     
+    },
+    "result":{
+        "item": "ap:fragment_robotic",
+        "count": 1
+    }
+}

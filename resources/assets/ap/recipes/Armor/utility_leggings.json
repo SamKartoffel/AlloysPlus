@@ -1,0 +1,15 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        "LRL" 
+    ],
+    
+    "key":{ 
+        "L":{"item": "ap:robotic_leg"},
+	"R":{"item": "minecraft:redstone_block"}     
+    },
+    "result":{
+        "item": "ap:leggings_robolegs",
+        "count": 1
+    }
+}

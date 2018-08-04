@@ -1,0 +1,17 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        "II",
+        "S ",
+        "S " 
+    ],
+    
+    "key":{ 
+        "I":{"item": "ap:ingot_electrum"},
+	"S":{"item": "minecraft:stick"}     
+    },
+    "result":{
+        "item": "ap:hoe_electrum",
+        "count": 1
+    }
+}

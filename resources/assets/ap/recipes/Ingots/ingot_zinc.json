@@ -1,0 +1,14 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        "B" 
+    ],
+    
+    "key":{ 
+        "B":{"item": "ap:block_zinc"}     
+    },
+    "result":{
+        "item": "ap:ingot_zinc",
+        "count": 9
+    }
+}

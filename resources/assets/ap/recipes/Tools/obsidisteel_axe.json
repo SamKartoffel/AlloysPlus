@@ -1,0 +1,17 @@
+{"type": "minecraft:crafting_shaped",
+    
+    "pattern":[
+        "II",
+        "SI",
+        "S " 
+    ],
+    
+    "key":{ 
+        "I":{"item": "ap:ingot_obsidisteel"},
+	"S":{"item": "minecraft:stick"}     
+    },
+    "result":{
+        "item": "ap:axe_obsidisteel",
+        "count": 1
+    }
+}
